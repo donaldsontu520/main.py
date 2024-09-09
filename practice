@@ -1,0 +1,63 @@
+
+#Tucker Donaldson
+#9/9/24
+
+# Exercise 2 - 3  (Personal Message)
+
+print('Mow')
+
+# Output
+#Mow
+
+print(PT)
+
+# Output
+#PT
+
+#  Exercise 2 - 5 (Famous Quote)
+
+print('Be who you are!')
+
+# Output
+#Be who you are!
+
+print(ariana! what are you doing here)
+
+# Output
+#ariana! what are you doing here
+# Exercise 2 - 6 (Famous Quote 2)
+
+print('is yo gun pink?')
+
+# Output
+#is yo gun pink?
+
+print(rawrr)
+
+# Output
+#rawrr
+
+
+
+
+# Using an f-string to build a string containing a first name and a last name
+
+print(f'{first_name} {last_name} is a Senior at Elk Rapids High School.')
+
+# Output
+Tucker Donaldson is a junior at Bellaire High School.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
